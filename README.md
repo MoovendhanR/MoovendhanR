@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at  **[Perennial Systems](https://perennialsys.com/)**
+- 🔭 I’m currently learning React**
 
 - 🔭 Check my Portfolio **[Portfolio](https://sainath-ai.github.io/Sainath-s_Portfolio/)**
 
