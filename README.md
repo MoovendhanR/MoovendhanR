@@ -16,7 +16,7 @@
 
 - 🔭 Check my Portfolio **[Portfolio](https://sainath-ai.github.io/Sainath-s_Portfolio/)**
 
-- 🌱 I’m currently learning *Data Structures and Algorithms.*
+- 🌱  Ask me about MERN Stack and DSA
 
 - 👯 I’m looking to collaborate on *OpenSource Projects and cloning pixel perfect applications*
 
