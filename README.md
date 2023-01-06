@@ -124,6 +124,8 @@
 <br/>
 <br/>
 
+[![MoovendhanR's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoovendhanR)](https://github.com/MoovendhanR/github-readme-stats)
+
 ## Connect with me:
 <p align="left">
 
