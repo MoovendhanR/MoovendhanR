@@ -119,12 +119,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/MoovendhanR/github-readme-activity-graph"><img alt="MoovendhanR  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MoovendhanR&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
-
-[![MoovendhanR's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoovendhanR)](https://github.com/MoovendhanR/github-readme-stats)
 
 ## Connect with me:
 <p align="left">
