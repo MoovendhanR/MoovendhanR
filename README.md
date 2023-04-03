@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently learning MongoDb,Express,NodeJs**
 
-- 🔭 Check my Portfolio **[Portfolio](http://moovendhan-portfolio.vercel.app/)**
+- 🔭 Check my Portfolio **[Portfolio](https://moovendhanr.github.io/)**
 
 - 🌱  Ask me about MERN Stack and DSA
 
