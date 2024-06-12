@@ -1,7 +1,7 @@
 
-<a href="https://github.com/MoovendhanR?tab=followers"><img src="https://img.shields.io/github/followers/sainath-AI?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MoovendhanR?tab=followers"><img src="https://img.shields.io/github/followers/MoovendhanR?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/MoovendhanR/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sainath-AI">
+    <img src="https://komarev.com/ghpvc/?username=MoovendhanR">
 </a>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moovendhan R</h1>
