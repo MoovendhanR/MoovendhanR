@@ -47,6 +47,17 @@
 
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MoovendhanR&theme=black-ice" alt="GitHub Streak" /></a>
   <br/>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MoovendhanR&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MoovendhanR&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoovendhanR&show_icons=true" />
+</picture>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 ## Connect with me:
