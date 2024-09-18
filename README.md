@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently learning MongoDb,Express,NodeJs**
 
-- 🔭 Check my Portfolio **[Portfolio](https://moovendhanr.github.io/)**
+- 🔭 Check my Portfolio **[Portfolio](https://moovendhanr.github.io)**
 
 - 🌱  Ask me about MERN Stack and DSA
 
