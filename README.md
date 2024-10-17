@@ -18,11 +18,11 @@
 
 - 👯 With 1+ year of MERN stack experience, I seek to collaborate on open-source projects and create pixel-perfect applications.
 
- 👨‍💻 I write tech blogs here **[Hashnode]((https://medium.com/@moovendhanr1011))** 
+- 👨‍💻 I write tech blogs here **[Medium](https://medium.com/@moovendhanr1011)** 
 
 - 📫 How to reach me *moovendhanr1011@gmail.com*
 
-- ⚡ Fun fact *I play games and go to the GYM very often.*
+- ⚡ Fun fact I play games and go to the GYM very often.
 
 ## 🚀 Languages and Tools:
 <p>
