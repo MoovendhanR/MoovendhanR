@@ -10,15 +10,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning MongoDb,Express,NodeJs**
+- 🔭 MERN stack developer with 1+ year experience in building scalable applications.
 
-- 🔭 Check my Portfolio **[Portfolio](https://moovendhanr.github.io)**
+- 🌐 Check my Portfolio **[Portfolio](https://moovendhanr.github.io)**
 
 - 🌱  Ask me about MERN Stack and DSA
 
-- 👯 I’m looking to collaborate on *OpenSource Projects and cloning pixel perfect applications*
+- 👯 With 1+ year of MERN stack experience, I seek to collaborate on open-source projects and create pixel-perfect applications.
 
-<!-- - 👨‍💻 I write tech blogs here **[Hashnode](https://hashnode.com/@sainath01)** -->
+ 👨‍💻 I write tech blogs here **[Hashnode]((https://medium.com/@moovendhanr1011))** 
 
 - 📫 How to reach me *moovendhanr1011@gmail.com*
 
