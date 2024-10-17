@@ -20,7 +20,7 @@
 
 - 👨‍💻 I write tech blogs here **[Medium](https://medium.com/@moovendhanr1011)** 
 
-- 📫 How to reach me *moovendhanr1011@gmail.com*
+- 📫 How to reach me moovendhanr1011@gmail.com
 
 - ⚡ Fun fact I play games and go to the GYM very often.
 
